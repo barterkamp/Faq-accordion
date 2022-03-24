@@ -36,13 +36,13 @@ Desktop version (max-width: 1440px)
 
 Mobile version (max-width: 375px)
 
-![Screenshot 2022-03-24 at 15-40-41 Frontend Mentor FAQ Accordion Card](https://user-images.githubusercontent.com/84913017/159943993-874979fd-7487-403d-9f5c-c58ec9af298c.png)
+![Screenshot 2022-03-24 at 15-40-41 Frontend Mentor FAQ Accordion Card](https://user-images.githubusercontent.com/84913017/159945318-f89f30ee-daf3-47a5-8d40-3a9998cacb2d.png)
 
 ### Links
 
 - Live Site URL: [https://faq-accordion-jds2ytltp-barterkamp.vercel.app/]
 
-- Repository: [hhttps://github.com/barterkamp/Faq-accordion]
+- Repository: [https://github.com/barterkamp/Faq-accordion]
 
 ### Built with
 
