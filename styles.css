@@ -114,7 +114,6 @@ p {
 
 .faq__content.active .faq__answer {
   display: block;
-  transition: 0.3s ease-in-out;
 }
 
 .faq__content.active .faq__question h2 {

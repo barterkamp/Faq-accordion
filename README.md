@@ -10,7 +10,6 @@ The designs were created to the following widths:
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
@@ -19,14 +18,6 @@ The designs were created to the following widths:
   - [Continued development](#continued-development)
 
 ## Overview
-
-### The challenge
-
-Users should be able to:
-
-- View the optimal layout for the component depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Hide/Show the answer to a question when the question is clicked.
 
 ### Screenshot
 
@@ -50,11 +41,6 @@ Mobile version (max-width: 375px)
 - Flexbox
 - Mobile-first workflow
 - Vanilla JavaScript
-
-### What I learned
-
-Although the faq functionality is up and running, I still have to find a way to remove the active class from a question when the user clicks on a new question.
-When all the answers are openend, the container grows, but the background image does not.
 
 ### Continued development
 
